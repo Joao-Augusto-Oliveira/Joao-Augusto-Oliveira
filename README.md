@@ -6,5 +6,5 @@
 
 
 - 🔭 I’m currently working at Kusko
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, REACT, TYPESCRIPT AND NEXT.JS
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, REACT, TYPESCRIPT, NEXT.JS and VUE.JS
 

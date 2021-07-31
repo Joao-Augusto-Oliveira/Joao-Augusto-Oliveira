@@ -5,6 +5,6 @@
 [![Rocketseat Badge](https://img.shields.io/badge/Rocketseat-blueviolet)](https://app.rocketseat.com.br/me/joao-augusto-oliveira-dos-santos-04081)
 
 
-- 🔭 I’m currently working at Kusko
+- 🔭 I’m currently working at Oficina5
 - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, TYPESCRIPT, REACT.JS, NEXT.JS and ANGULAR
 

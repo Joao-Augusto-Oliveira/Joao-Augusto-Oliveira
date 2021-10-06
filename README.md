@@ -6,5 +6,5 @@
 
 
 - 🔭 I’m currently working at Oficina5
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, TYPESCRIPT, REACT.JS, NEXT.JS and ANGULAR
+- 🌱 I’m currently learning JAVASCRIPT, REACT.JS, NEXT.JS, ANGULAR and NEST.JS
 
